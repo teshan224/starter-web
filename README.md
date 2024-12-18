@@ -9,6 +9,9 @@ A lot of lectures already submitted
 ## GTT & GitHub Training
 one of the best
 
+## Contribute 
+fork the repo
+
 ## GIT Comparisons
 adding git comparision lecture
 
