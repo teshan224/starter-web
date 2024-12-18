@@ -8,3 +8,9 @@ A lot of lectures already submitted
 
 ## GTT & GitHub Training
 one of the best
+
+## GIT Comparisons
+adding git comparision lecture
+
+## GitHub content
+comparison with repo
