@@ -3,7 +3,8 @@
 
 # TEAM
 
-    <name> zaltan <twitter>
+    zaltan
+    zaltan@gmail.com
 
 # THANKS
 
