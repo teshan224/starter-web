@@ -5,6 +5,7 @@
 
     zaltan
     zaltan@gmail.com
+    devops eng
 
 # THANKS
 
@@ -14,3 +15,4 @@
 
     HTML5, CSS3, Angular
     jQuery, Modernizr
+    Docker, java
