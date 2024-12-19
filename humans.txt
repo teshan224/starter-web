@@ -1,10 +1,9 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 
-
-
-
 hi , im modifying the file before rebase
+
+doing some changes in local
 
 # TEAM
 
