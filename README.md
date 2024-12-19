@@ -4,6 +4,7 @@ this is git project which we are using as a sample project
 
 ## Introduction
 A lot of lectures already submitted
+And lot of lectures are still comming up
  
 
 ## GTT & GitHub Training
