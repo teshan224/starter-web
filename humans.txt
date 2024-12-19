@@ -10,7 +10,8 @@ hi , im modifying the file before rebase
 
     zaltan
     zaltan@gmail.com
-    devops eng
+    devops eng level III
+    IT department
 
 # THANKS
 
