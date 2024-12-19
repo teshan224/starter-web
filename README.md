@@ -8,7 +8,7 @@ A lot of lectures already submitted
 
 ## GTT & GitHub Training
 one of the best
-adding git rebase and git advewanse part
+adding git rebase and git advewanse part, we have done so much of work together
 
 ## Contribute 
 fork the repo
