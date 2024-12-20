@@ -19,3 +19,4 @@ adding git comparision lecture
 
 ## GitHub content
 comparison with repo
+adding new lectures with stash
